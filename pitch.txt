@@ -1,0 +1,7 @@
+globaldce is built on top of reimplementation of the Bitcoin protocol, which means that it benefits from the same security and reliability that has made Bitcoin so successful. But globaldce takes things to the next level by adding a content delivery network that allows for consorship resistant content delivery. This means that you can stream videos, download files, and access decentralized application, no matter where you are in the world.
+
+In addition to its content delivery network, globaldce also offers peer to peer transactions and because globaldce is built of the same Nakamoto consensus that Bitcoin protocol uses, you can trust that your transactions will be secure and reliable.
+
+But perhaps the most exciting thing about globaldce is its potential for growth and innovation. With its powerful combination of Bitcoin and a content delivery network, globaldce has the potential to revolutionize the way we think about the flow of money and information. And because it's still in its early stages, there's plenty of room for developers and entrepreneurs to build new applications and services on top of the platform.
+
+So if you're looking for a cryptocurrency that combines security, speed, and innovation, look no further than globaldce. Whether you're a content creator, a business owner, or an individual looking for a better way to manage your finances, globaldce has everything you need to succeed in the digital world.
